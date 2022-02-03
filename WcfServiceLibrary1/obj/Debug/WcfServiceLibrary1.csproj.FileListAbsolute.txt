@@ -1,0 +1,7 @@
+C:\Users\umutd\source\repos\WindowsFormsApp1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\umutd\source\repos\WindowsFormsApp1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\umutd\source\repos\WindowsFormsApp1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\umutd\source\repos\WindowsFormsApp1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.AssemblyReference.cache
+C:\Users\umutd\source\repos\WindowsFormsApp1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\umutd\source\repos\WindowsFormsApp1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+C:\Users\umutd\source\repos\WindowsFormsApp1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
